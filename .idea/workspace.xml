@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d60449a-7bdf-46c6-a16f-8fe7638219d1" name="Changes" comment="w pełni działający projekt">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projektNWW.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test4.txt" afterDir="false" />
-    </list>
+    <list default="true" id="6d60449a-7bdf-46c6-a16f-8fe7638219d1" name="Changes" comment="w pełni działający projekt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +38,14 @@
       <option name="presentableId" value="Default" />
       <updated>1674601760595</updated>
     </task>
+    <task id="LOCAL-00001" summary="w pełni działający projekt">
+      <created>1674602591114</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674602591114</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
